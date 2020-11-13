@@ -10,7 +10,7 @@ body {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
           flex-direction: column;
-  background: #000;
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
   margin:center;
 }
 
